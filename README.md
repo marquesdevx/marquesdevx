@@ -14,3 +14,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Marques
+
+## Desenvolvedor Backend
+
+Especializado em:
+
+✔ C#
+
+✔ .NET
+
+✔ SQL Server
+
+✔ Azure
+
+✔ Docker
+
+---
+
+## Projetos em Destaque
+
+Sistema ERP
+
+API REST
+
+Sistema Bancário
+
+Microsserviços
+
+---
+
+## Certificações
+
+Microsoft
+
+Azure
+
+Scrum
+
+---
+
+## Contato
+
+LinkedIn
+
+Email
